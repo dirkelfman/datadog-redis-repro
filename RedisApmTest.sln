@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedisApmTest", "RedisApmTest\RedisApmTest.csproj", "{D87EBB15-E27D-4E42-9CB7-14B52D266EC6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D87EBB15-E27D-4E42-9CB7-14B52D266EC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D87EBB15-E27D-4E42-9CB7-14B52D266EC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D87EBB15-E27D-4E42-9CB7-14B52D266EC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D87EBB15-E27D-4E42-9CB7-14B52D266EC6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF77C7A9-5EBC-4176-88B8-8AA547BD3D43}
+	EndGlobalSection
+EndGlobal
